@@ -12,5 +12,5 @@
 /* 官方地址 */
 <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 /* Mirror 地址 */
-<script async src="bsz.pure.mini.js"></script>
+<script async src="//cdn.jsdelivr.net/gh/sukkaw/busuanzi@2.3/bsz.pure.mini.js"></script>
 ```
